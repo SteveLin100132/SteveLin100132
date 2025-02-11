@@ -48,6 +48,7 @@
 ![](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 ![](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![](https://img.shields.io/badge/-Apache%20NiFi-6F8A95?style=flat&logo=apachenifi&logoColor=white)
 ![](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### Cloud / Server / Tools
