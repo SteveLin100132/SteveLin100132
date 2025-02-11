@@ -6,9 +6,9 @@
 📊 Passionate about backend architecture, and cloud-native solutions. <br />
 💡 Writing about backend development, DevOps, and system design best practices. <br />
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=stevelin100132&label=Profile%20views&color=0e75b6&style=flat" alt="stevelin100132" />
-</p>
+</p> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en)
 
