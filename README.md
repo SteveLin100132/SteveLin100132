@@ -27,6 +27,7 @@
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/-Angular-DE0A39?style=flat&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Ng%20Zorro-0170FE?style=flat&logo=antdesign&logoColor=white" />
       <img src="https://img.shields.io/badge/-Apached%20ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white" />
     </td>
     <td valign="top" width="33%">
@@ -36,6 +37,7 @@
       <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/-LoopBack-3F5DFF?style=flat&logo=loopback&logoColor=white" />
       <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />
       <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white" />
@@ -91,5 +93,7 @@
     </td>
   </tr>
 </table>
+
+## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=stevelin100132&show_icons=true&locale=en&layout=compact)
