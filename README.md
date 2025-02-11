@@ -1,3 +1,5 @@
+![](/assets/images/header.png)
+
 # 👋 Hi, I'm Steve!
 
 👨🏻‍💻 Software Engineer sharing my journey and learnings in tech. <br />
