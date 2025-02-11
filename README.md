@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=stevelin100132&label=Profile%20views&color=0e75b6&style=flat" alt="stevelin100132" />
 </p> -->
 
-![](https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en)
-
 ## 💻 Tech Stack
 
 <table>
@@ -96,4 +94,8 @@
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=stevelin100132&show_icons=true&locale=en&layout=compact)
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en" />
+
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevelin100132&show_icons=true&locale=en&layout=compact" />
+
+
