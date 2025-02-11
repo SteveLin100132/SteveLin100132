@@ -40,9 +40,10 @@
       <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white" />
       <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Apache JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white"/>
     </td>
     <td valign="top" width="33%">
-      <h3>Database / Data Processing</h3>
+      <h3>Database & Data Processing</h3>
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
@@ -61,7 +62,7 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Cloud / Server / Tools</h3>
+      <h3>Cloud & Others</h3>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
       <img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white" />
@@ -76,10 +77,13 @@
       <img src="https://img.shields.io/badge/-Opsgenie-172B4D?style=flat&logo=opsgenie&logoColor=white" />
       <img src="https://img.shields.io/badge/-Matomo-3152A0?style=flat&logo=matomo&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vault-FFEC6E?style=flat&logo=vault&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat&logo=sonarlint&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/>
     </td>
     <td valign="top" width="33%">
-      <h3>Project Management & Security</h3>
+      <h3>Tools</h3>
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
       <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
     </td>
@@ -92,10 +96,16 @@
   </tr>
 </table>
 
-## 📊 Stats
+<details open> 
+  <summary><h2>📊 Stats</h2></summary>
+  
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en" />
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevelin100132&show_icons=true&locale=en&layout=compact" />
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevelin100132&show_icons=true&locale=en&layout=compact" />
+  <br />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SteveLin100132&bg_color=FCFCFC&color=2350A9&line=2350A9&point=FBC829&radius=10&hide_border=false&hide_title=true&height=300" />
+</details>
 
 
