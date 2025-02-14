@@ -106,6 +106,8 @@
   <br />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SteveLin100132&bg_color=FCFCFC&color=2350A9&line=2350A9&point=FBC829&radius=10&hide_border=false&hide_title=true&height=300" />
+
+  ![snake gif](https://raw.githubusercontent.com/SteveLin100132/SteveLin100132/refs/heads/output/github-snake.svg%20dist/github-snake-dark.svg%3Fpalette%3Dgithub-dark%20dist/ocean.gif)
 </details>
 
 
