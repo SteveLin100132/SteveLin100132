@@ -1,6 +1,9 @@
 ![](/assets/images/header.png)
 
-# <img src="./assets/images/steve-avatar.png" width="40" style="vertical-align:middle"> Hi, I'm Steve!
+<h1>
+  <img src="./assets/images/steve-avatar.png" width="40" align="left">
+  <span style="">Hi, I'm Steve!<br /></span>
+</h1>
 
 👨🏻‍💻 Software Engineer sharing my journey and learnings in tech. <br />
 🎓 Studied Department of Bachelor Program of Computer and Intelligent Robot Engineering at [National Pingtung University](https://www.nptu.edu.tw/), Taiwan. <br />
