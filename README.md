@@ -44,6 +44,7 @@
       <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white" />
       <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
       <img src="https://img.shields.io/badge/-Apache JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white"/>
     </td>
     <td valign="top" width="33%">
       <h3>Database & Data Processing</h3>
@@ -58,6 +59,7 @@
       <img src="https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
       <img src="https://img.shields.io/badge/-Apache%20NiFi-6F8A95?style=flat&logo=apachenifi&logoColor=white" />
       <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -65,30 +67,24 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Cloud & Others</h3>
+      <h3>Version Control & Monitor</h3>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/-Nginx%20Proxy%20Manager-F15833?style=flat&logo=nginxproxymanager&logoColor=white" />
-      <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Harbor-60B932?style=flat&logo=harbor&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
       <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
       <img src="https://img.shields.io/badge/-Loki-F46800?style=flat&logo=loki&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Opsgenie-172B4D?style=flat&logo=opsgenie&logoColor=white" />
       <img src="https://img.shields.io/badge/-Matomo-3152A0?style=flat&logo=matomo&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vault-FFEC6E?style=flat&logo=vault&logoColor=white" />
       <img src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat&logo=sonarlint&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/>
     </td>
     <td valign="top" width="33%">
-      <h3>Tools</h3>
+      <h3>Dev. Tools</h3>
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
     </td>
     <td valign="top" width="33%">
       <h3>UI/UX & Graphic Design</h3>
@@ -99,14 +95,41 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>CICD & Containerized</h3>
+      <img src="https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Harbor-60B932?style=flat&logo=harbor&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Google%20Cloud-3A8FE7?style=flat&logo=googlecloud&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Mgmt. Tools</h3>
+      <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Opsgenie-172B4D?style=flat&logo=opsgenie&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>AI</h3>
+      <img src="https://img.shields.io/badge/-LangChain-203D3D?style=flat&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LangGraph-203D3D?style=flat&logo=langgraph&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Github%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <details open> 
   <summary><h2>📊 Stats</h2></summary>
   
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en" />
+  <!-- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=stevelin100132&show_icons=true&locale=en" />
 
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevelin100132&show_icons=true&locale=en&layout=compact" />
 
-  <br />
+  <br /> -->
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SteveLin100132&bg_color=FCFCFC&color=2350A9&line=2350A9&point=FBC829&radius=10&hide_border=false&hide_title=true&height=300" />
 
